@@ -1,4 +1,4 @@
-# GenX Multi-Agent System
+# GenAI Multi-Agent System
 
 > Unified architecture for multi-expert AI agent collaboration
 
